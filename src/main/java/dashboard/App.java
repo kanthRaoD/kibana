@@ -10,7 +10,7 @@ public class App
     {
     	
       //  SampleTest test=new SampleTest();
-        System.out.println("perform login");
+        System.out.println("perform login operation");
      //   test.login();
       //  test.fundtransfer();
       //  test.logout();
